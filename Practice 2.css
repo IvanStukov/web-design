@@ -9,7 +9,7 @@ body {
 }
 nav {
     margin: 0 auto;
-    margin-top: 0em;
+    margin-top: 3em;
     width: 1100px;
 }
 nav ul {
@@ -29,7 +29,7 @@ nav ul li {
   -ms-transition: all 0.2s;
   -o-transition: all 0.2s;
   transition: all 0.2s;
-  background: #FFA500;
+  background: yellow;
 }
 nav li a {
       padding-bottom: 1em;
