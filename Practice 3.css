@@ -86,13 +86,13 @@ nav ul li:hover ul {
 .left_column {
 	float: left;
 	width: 50%;
-	height: 350 px;
+	height: 350px;
 	background: #FFA500;
 }
 .right_column {
 	float: right;
 	width: 50%;
-	height: 350 px;
+	height: 350px;
 	background: #FF4500;
 }
 footer {
